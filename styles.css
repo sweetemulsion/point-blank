@@ -340,7 +340,7 @@ html {
 .cta-btn {
   width: 50rem;
   height: 25rem;
-  background-image: url(./images/meeples.jpg);
+  background-image: url(meeples.jpg);
   background-size: cover;
   border: none;
   border-radius: 3rem;
